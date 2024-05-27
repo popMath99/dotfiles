@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = popescu_mathieu@yahoo.com
+	name = Mathieu Popescu
